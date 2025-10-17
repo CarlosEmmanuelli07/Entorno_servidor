@@ -118,17 +118,17 @@
 7. Usa lambda en reduce para multiplicar todos los elementos de una lista.
 8. Define una lista de funciones lambda que realicen operaciones básicas (suma, resta, multiplicación).
 9. Usa lambda para comprobar si un número es par o impar.
-10. Usa lambda para calcular el doble de los números pares de una lista.
+    10. Usa lambda para calcular el doble de los números pares de una lista.
 
 ## Comprensiones
 1. Crea una lista con los cuadrados de los números del 1 al 10.
 2. Crea una lista con las vocales de una cadena dada.
 3. Crea una lista con los múltiplos de 3 entre 1 y 100.
-4. Crea una lista con palabras de una frase que tengan más de 5 letras.
+    4. Crea una lista con palabras de una frase que tengan más de 5 letras.
 5. Crea un diccionario donde las claves sean números del 1 al 5 y los valores sus cubos.
 6. Crea un conjunto con todas las letras únicas de una palabra.
 7. Genera una lista de tuplas (n, n^2) para n del 1 al 10.
-8. Crea una lista con las longitudes de cada palabra de una frase.
+    8. Crea una lista con las longitudes de cada palabra de una frase.
 9. Genera un diccionario que cuente cuántas veces aparece cada letra en una cadena.
 10. Crea una lista con los inversos de los números del 1 al 10 que no sean 0.
 
